@@ -1,9 +1,9 @@
-p{
+h1{
     background-color: rgb(250, 198, 207);
-    color: rgba(255, 255, 129, 0.759);
+    color: rgba(233, 250, 138, 0.866);
     font-size: 50px;
-    margin-left: 925px;
-    margin-top: 370px;
+    text-align: center;
+    padding-top: 24rem;   
 }
 
 
